@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Recalculating"
-date:       2017-11-10 16:15:12 +0000
+date:       2017-11-10 11:15:13 -0500
 permalink:  recalculating
 ---
 

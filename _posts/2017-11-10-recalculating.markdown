@@ -10,7 +10,7 @@ Have you seen that Jeep commercial that's been all over recently?
 
 The one where you're watching different people make life-altering decisions to the chime of a Siri-esque voice saying *"recalculating"*? 
 
-There's a girl on her way to her job at some bohemeth-looking corporate building... and she just turns around and walks away. There's a guy who breaks his (rather arbitrary, in my opinion) single-til-I'm-34 rule by proposing to his girlfriend on a hike. While I'm totally aware that I'm part of that millenial *cringe* audience Jeep is targeting here, I'm definitely eating up the whole message. Life changes and you adapt. What you want changes and you move forward with that. 
+There's a girl on her way to her job at some bohemeth-looking corporate building... and she just turns around and walks away. There's a guy who breaks his (rather arbitrary, in my opinion) single-til-I'm-34 rule by proposing to his girlfriend on a hike. While I'm totally aware that I'm part of that millenial (*cringe*) audience Jeep is targeting here, I'm definitely eating up the whole message. Life changes and you adapt. What you want changes and you move forward with that. 
 
 **That's why I'm doing Flatiron.**
 
@@ -28,7 +28,7 @@ At Facebook, I got out of finance! Technically. This basically meant I no longer
 
 **Then why change?**
 
-Every job (and boyfriend, for that matter) teaches you something about yourself. At Cisco I learned I enjoy analyzing data, and at Facebook I learned I enjoy being that cross-section between teams. At Cisco I learned that a company's product really matters to me, and at Facebook I learned *drumroll* that I want to get even closer to shaping the product experience for the actual user. I'm slowly getting closer! The idea of working on a product team was never on my radar until I came to Facebook. And I became fascinated by it, taking intro classes in UX design and web languages like HTML/CSS to understand more. Keep in mind, I had known nothing but the finance and sales world. This was truly a revelation. 
+Every job (and boyfriend, for that matter) teaches you something about yourself. At Cisco I learned I enjoy analyzing data, and at Facebook I learned I enjoy being that cross-section between teams. At Cisco I learned that a company's product really matters to me, and at Facebook I learned- *drumroll*- that I want to get even closer to shaping the product experience for the actual user. I'm slowly getting closer! The idea of working on a product team was never on my radar until I came to Facebook. And I became fascinated by it, taking intro classes in UX design and web languages like HTML/CSS to understand more. Keep in mind, I had known nothing but the finance and sales world. This was truly a revelation. 
 
 Something I've left out of this narrative is the passion for art I've put on the backburner since joining the professional world. I used to take all of these art classes in high school, and I have this big portfolio that I've added to on and off since then. At Facebook, I channeled this creative side into designing Tableau dashboards and Powerpoint presentations. Dorky, I know. But I worked with what I had. My team would even refer to my visuals as "K-dub" (that was my nickname) material. And now I want to take that to the next level by committing to learning front-end development and UX design. My thought process is Flatiron can teach me the skills to land a job that feeds my craving for the analytical *and* the creative. And it's now or never. 
 
